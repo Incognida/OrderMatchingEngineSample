@@ -1,0 +1,20 @@
+***Bids left***
+quantity@price	 user_id	 - timestamp
+246.4711542687(<class 'decimal.Decimal'>)	904.5592553265(<class 'decimal.Decimal'>)
+98.1462720971(<class 'decimal.Decimal'>)	750.8907241890(<class 'decimal.Decimal'>)
+414.6810710988(<class 'decimal.Decimal'>)	277.0925098102(<class 'decimal.Decimal'>)
+298.6714667312(<class 'decimal.Decimal'>)	271.7607933662(<class 'decimal.Decimal'>)
+956.2548493057(<class 'decimal.Decimal'>)	250.7948760970(<class 'decimal.Decimal'>)
+
+***Asks left***
+quantity@price	 user_id	 - timestamp
+670.4830565777(<class 'decimal.Decimal'>)	48.6264649732(<class 'decimal.Decimal'>)
+130.2562732092(<class 'decimal.Decimal'>)	151.4202300953(<class 'decimal.Decimal'>)
+138.0262313278(<class 'decimal.Decimal'>)	299.8748983283(<class 'decimal.Decimal'>)
+222.6886157260(<class 'decimal.Decimal'>)	460.0120654678(<class 'decimal.Decimal'>)
+25.4017164320(<class 'decimal.Decimal'>)	570.8999716614(<class 'decimal.Decimal'>)
+506.5164891033(<class 'decimal.Decimal'>)	592.1373145199(<class 'decimal.Decimal'>)
+295.7807807528(<class 'decimal.Decimal'>)	646.5925153396(<class 'decimal.Decimal'>)
+
+***Trades done***
+
